@@ -4,6 +4,7 @@
 # Except this.
 !/.gitignore
 !/index.js
+!/LICENSE
 !/package.json
 !/README.md
 !/yarn.lock
