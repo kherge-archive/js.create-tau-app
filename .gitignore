@@ -1,10 +1,18 @@
 # Exclude everything.
 *
 
-# Except this.
+# Except the ignore list.
 !/.gitignore
+
+# Except the main script.
 !/index.js
+
+# Except the license.
 !/LICENSE
+
+# Except the package manifest.
 !/package.json
-!/README.md
 !/yarn.lock
+
+# Except the README.
+!/README.md

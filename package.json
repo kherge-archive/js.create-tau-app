@@ -1,6 +1,6 @@
 {
   "name": "create-tau-app",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "license": "ISC",
   "author": "Kevin Herrera <kevin@herrera.io>",
   "description": "Generates a new application using @kherge/js.tau as a template.",
@@ -27,8 +27,7 @@
     "download": "^8.0.0",
     "jsonfile": "^6.1.0",
     "move-concurrently": "^1.0.1",
-    "mv": "^2.1.1",
-    "prompt": "^1.1.0",
+    "prompts": "^2.4.1",
     "semver": "^7.3.5"
   }
 }
