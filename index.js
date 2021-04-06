@@ -142,6 +142,10 @@ const replacePackageInfo = (file) => {
       info.description = result.description;
       info.name = result.name;
 
+      delete info.keywords;
+      delete info.bugs;
+      delete info.repository;
+
       jsonfile.writeFileSync(file, info, { spaces: 2 });
     }
   });
