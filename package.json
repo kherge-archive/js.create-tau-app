@@ -1,0 +1,21 @@
+{
+  "name": "create-tau-app",
+  "version": "0.1.0",
+  "license": "ISC",
+  "author": "Kevin Herrera <kevin@herrera.io>",
+  "description": "Generates a new application using @kherge/js.tau as a template.",
+  "homepage": "https://github.com/kherge/js.create-tau-app",
+  "keywords": [
+    "electron",
+    "react",
+    "typescript"
+  ],
+  "bugs": {
+    "url": "https://github.com/kherge/js.create-tau-app/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kherge/js.create-tau-app.git"
+  },
+  "dependencies": {}
+}
