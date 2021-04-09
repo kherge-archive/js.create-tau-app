@@ -1,6 +1,10 @@
 # Exclude everything.
 *
 
+# Except the source folder.
+!/src/
+!/src/**
+
 # Except the ignore list.
 !/.gitignore
 
