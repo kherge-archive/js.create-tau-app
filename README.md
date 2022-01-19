@@ -1,3 +1,5 @@
+> This project has been archived as it is no longer needed. Please see the official Electron documentation on [how to create a TypeScript + Webpack](https://www.electronforge.io/templates/typescript-+-webpack-template) projects, followed by their documentation on [adding React to the project](https://www.electronforge.io/guides/framework-integration/react-with-typescript).
+---
 # Create Tau App
 
 Generates a new application from the [js.tau](https://github.com/kherge/js.tau) template.
